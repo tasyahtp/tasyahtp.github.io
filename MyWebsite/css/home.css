@@ -1,0 +1,47 @@
+body {
+	padding-top: 70px;
+}
+
+.navbar-brand img {
+	height: 30px;
+}
+
+#menu a {
+	font-size: 10px;
+	color: black;
+	font-weight: 600;
+}
+
+.home {
+	margin-top: -25px;
+	padding-top: 10%;
+	padding-bottom: 9.5%;
+	background-color: #3E86F3FF;
+	color: white;
+}
+
+.home .btn {
+	height: 50px;
+	width: 150px;
+	font-size: 10px;
+	color: #3E86F3FF;
+}
+
+.home .img {
+	margin-top: 100px;
+	height: 100px;
+	width: 600px;
+	transition: 1s;
+}
+
+#active {
+	border-top: 2px solid #3E86F3FF;
+}
+
+@media (max-width: 616px) {
+	.home .img {
+		height: 50px;
+		width: 200px;
+		transition: 1s;
+	}
+}
