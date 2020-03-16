@@ -1,0 +1,130 @@
+.navbar-brand img {
+	height: 30px;
+}
+
+#menu a {
+	font-size: 10px;
+	color: black;
+	font-weight: 600;
+}
+
+.home {
+	margin-top: -25px;
+	padding-top: 10%;
+	padding-bottom: 9.5%;
+	background-color: #3E86F3FF;
+	color: white;
+}
+
+.home .btn {
+	height: 50px;
+	width: 150px;
+	font-size: 10px;
+	color: #3E86F3FF;
+}
+
+.home .img {
+	margin-top: 100px;
+	height: 100px;
+	width: 600px;
+	transition: 1s;
+}
+
+#active {
+	border-top: 2px solid #3E86F3FF;
+}
+
+@media (max-width: 616px) {
+	.home .img {
+		height: 50px;
+		width: 200px;
+		transition: 1s;
+	}
+}
+
+.v-center {
+    position: relative;
+    transform: translateY(50%);
+    font-weight: 600;
+    color: #888888;
+}
+
+.invision {
+	font-family: 'Berkshire Swash';
+	color: #666666
+}
+
+.nama {
+	font-family: serif;
+	font-size: 10px;
+}
+
+.bag3 {
+	background-color: #eeeeee;
+	height: 700px;
+}
+
+.about {
+	background-color: #ffffff;
+	padding-top: 4.5%;
+	padding-bottom: 4.5%;
+	color: #888888;
+	box-shadow: 0px 0px 10px 5px lightgray;  
+}
+
+.about span {
+	color: lightblue;
+}
+
+.contact {
+	height: 200px;
+	background-color: #4188F9FF;
+}
+
+.footer {
+	padding-top: 40px;
+}
+
+.contact .footer .btn {
+	background-color: transparent;
+	border:1px solid white;
+	border-radius: 25px 25px 25px 25px;
+	height: 40px;
+	width: 150px;
+	color: white;
+}
+
+.foot {
+	height: 200px;
+	padding-top: 25px;
+	background-color: #222222;
+	color: #666666;
+}
+
+.foot .img-foot {
+	padding-top: 50px;
+}
+
+.foot li {
+	list-style: none;
+	margin-bottom: 12.5px;
+}
+
+.list-head {
+	color: white;
+}
+
+.round {
+	height: 40px;
+	width: 40px;
+	background-color: #444444;
+	border: none;
+	border-radius: 50%;
+	display: inline-block;
+	color: white;
+	margin-right: 5px;
+}
+
+.round:active {
+	background-color: #333333;
+}

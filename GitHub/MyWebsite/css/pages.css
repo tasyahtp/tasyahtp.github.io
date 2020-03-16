@@ -1,0 +1,16 @@
+.v-center {
+    position: relative;
+    transform: translateY(50%);
+    font-weight: 600;
+    color: #888888;
+}
+
+.invision {
+	font-family: 'Berkshire Swash';
+	color: #666666
+}
+
+.nama {
+	font-family: serif;
+	font-size: 10px;
+}
