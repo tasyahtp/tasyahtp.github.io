@@ -1,0 +1,52 @@
+.contact {
+	height: 200px;
+	background-color: #4188F9FF;
+}
+
+.footer {
+	padding-top: 40px;
+}
+
+.contact .footer .btn {
+	background-color: transparent;
+	border:1px solid white;
+	border-radius: 25px 25px 25px 25px;
+	height: 40px;
+	width: 150px;
+	color: white;
+}
+
+.foot {
+	height: 200px;
+	padding-top: 25px;
+	background-color: #222222;
+	color: #666666;
+}
+
+.foot .img-foot {
+	padding-top: 50px;
+}
+
+.foot li {
+	list-style: none;
+	margin-bottom: 12.5px;
+}
+
+.list-head {
+	color: white;
+}
+
+.round {
+	height: 40px;
+	width: 40px;
+	background-color: #444444;
+	border: none;
+	border-radius: 50%;
+	display: inline-block;
+	color: white;
+	margin-right: 5px;
+}
+
+.round:active {
+	background-color: #333333;
+}
